@@ -1,3 +1,39 @@
+# my-react-app
+
+This is a basic react application, which demonstrates routing via React Router.
+
+# Features
+
+App features two routes named "/hello-world" and "/new-route"
+
+It also features a button "Open second page" which redirects to "/new-route"
+
+# Running the app
+
+To run the app you need to do the following:
+
+
+1. Change directory to my-react-app:
+
+cd my-react-app
+
+2. Install whatever dependencies you need
+
+npm install
+
+3. Start the server
+
+npm start
+
+4. App should open in http://localhost:3000
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
