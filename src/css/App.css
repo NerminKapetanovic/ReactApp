@@ -9,24 +9,16 @@
   color: white;
 }
 
-.pozadina{
-
-  background-image:url(cover2.jpg) ;
-  align-items: center;
-  
-}
 body {
   background-image: url(cover2.jpg);
   background-position: center; 
   background-size: cover;
-   background-repeat: no-repeat;
-   margin: 150px;
-   height: 100vh;
-   align-items: center;
-   
-   
-
+  background-repeat: no-repeat;
+  margin: 150px;
+  height: 100vh;
+  align-items: center;
 }
+
 .hello{
 
 background-color: black;
@@ -37,9 +29,8 @@ text-align: center;
 display: inline-block;
 font-size: 90px;
 border-radius: 50px;
-
-
 }
+
 .button {
   background-color: #4CAF50; /* Green */
   border: none;
@@ -51,6 +42,7 @@ border-radius: 50px;
   font-size: 16px;
   border-radius: 50px;
 }
+
 .paragraph{
   margin-top: 0px;
   background-color:rgb(69, 30, 30);
@@ -62,8 +54,6 @@ border-radius: 50px;
   font-size: 50px;
   text-decoration:dashed;
   border-radius: 10px;
-  
-  
   }
 
   .paragraph2{
@@ -77,6 +67,4 @@ border-radius: 50px;
     font-size: 50px;
     text-decoration:dashed;
     border-radius: 10px;
-    
-    
-    }
+   }
